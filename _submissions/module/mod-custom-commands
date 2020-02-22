@@ -1,14 +1,24 @@
 
    # Module info
    
-    Name: mod-custom-commands
-    Author: Prince
-    Repository: https://github.com/Ariash?tab=repositories
-    Download: https://github.com/Ariash/Azerothcore-module/archive/master.zip
-    License: AGPL
+    - Name: mod-custom-commands
+    - Author: Prince
+    - Repository: https://github.com/Ariash?tab=repositories
+    - Download: https://github.com/Ariash/Azerothcore-module/archive/master.zip
+    - License: AGPL
+    
+    
+    # Module integration
+
+   - AzerothCore hash/commit compliance: 4b27100
+   - Includes configuration (.conf)?: no
+   - Includes SQL patches?: No
+
     
     
     
     # Description
 
-    A module to use custom commands
+    -A module to use custom commands
+    
+    
